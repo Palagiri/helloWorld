@@ -1,2 +1,3 @@
  Hi this is second text file that i am using to put it in Git
 this is second line of addition 
+This is added on git HUG
